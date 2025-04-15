@@ -14,6 +14,7 @@ Contributors are encouraged to update their repository's own readme with key fea
 | https://github.com/drashna/qmk_modules  | Unfortunately, no one can be told what Drashna's modules are. You have to see them for yourself.                     | `rtc` `unicode` `keylogger`       |
 | https://github.com/getreuer/qmk-modules | Some of the more _interesting_ features. SOCD Cleaner support, mouse shenanigans, customized per-hand functionality. | `socd` `turbo-mouse` `achordion`  |
 | https://github.com/tzarc/qmk_modules    | Experimental features, such as Lua scripts, a flash filesystem, and a RISC-V RGB VM. And Konami code support.        | `flash` `scripting` `konami-code` |
+| https://github.com/yeroca/qmk_concurrent_macros | Support for macro looping and running multiple concurrent macros along with keyboard input, mainly for gaming.  Also provides optional monochrome and RGB LED animations for keys that are mapped to those macros to indicate the current running/idle state. |`concurrent` `macros` `looping` `gaming` |
 
 ## External Userspaces
 
