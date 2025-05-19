@@ -9,11 +9,12 @@ Contributors are encouraged to update their repository's own readme with key fea
 
 ## Community Modules
 
-| URL                                     | Description                                                                                                          | Keywords                          |
-|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| https://github.com/drashna/qmk_modules  | Unfortunately, no one can be told what Drashna's modules are. You have to see them for yourself.                     | `rtc` `unicode` `keylogger`       |
-| https://github.com/getreuer/qmk-modules | Some of the more _interesting_ features. SOCD Cleaner support, mouse shenanigans, customized per-hand functionality. | `socd` `turbo-mouse` `achordion`  |
-| https://github.com/tzarc/qmk_modules    | Experimental features, such as Lua scripts, a flash filesystem, and a RISC-V RGB VM. And Konami code support.        | `flash` `scripting` `konami-code` |
+| URL                                      | Description                                                                                                          | Keywords                          |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| https://github.com/drashna/qmk_modules   | Unfortunately, no one can be told what Drashna's modules are. You have to see them for yourself.                     | `rtc` `unicode` `keylogger`       |
+| https://github.com/elpekenin/qmk_modules | Extensive collection of utility features, code-less RGB config, QP animations, MicroPython bindings, ...             | `rgb` `qp` `micropython`          |
+| https://github.com/getreuer/qmk-modules  | Some of the more _interesting_ features. SOCD Cleaner support, mouse shenanigans, customized per-hand functionality. | `socd` `turbo-mouse` `achordion`  |
+| https://github.com/tzarc/qmk_modules     | Experimental features, such as Lua scripts, a flash filesystem, and a RISC-V RGB VM. And Konami code support.        | `flash` `scripting` `konami-code` |
 
 ## External Userspaces
 
@@ -22,4 +23,4 @@ Contributors are encouraged to update their repository's own readme with key fea
 | https://github.com/333fred/qmk_userspace  | 333fred's userspace: home of a few complex tap_dance routines and a few OLED customizations | `tap-dance` `oled`           |
 | https://github.com/daskygit/qmk_userspace | Dasky's userspace: home of some very interesting pointing development                       | `pointing` `quantum-painter` |
 | https://github.com/drashna/qmk_userspace  | Drashna's userspace: the home of all OLED customisations and Diablo keymaps                 | `oled` `rgb` `gaming`        |
-  
+
